@@ -1,0 +1,47 @@
+body
+{
+  width: 100%;
+  height: 100%; 
+}
+.taskbar
+{
+  width: 100%;
+  height: 10rem;
+  background-color: darkgray;
+ margin: -1rem;
+ border: 1px;
+ border-color: darkgray;
+}
+.logo
+{
+width:10rem;
+height: 10rem;
+}
+ul
+{
+  display: inline-block; 
+}
+pre
+{
+  font-family:sans-serif;
+  font-size: large;
+}
+img
+{
+  width: 13rem;
+  height: 20rem;
+  padding: 1rem;
+}
+a{
+  text-decoration: none;
+  
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 10px;
+}
+id{
+  background-color: yellow;
+}
